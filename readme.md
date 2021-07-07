@@ -5,6 +5,7 @@
    - [Login](/docs/Login.md)
    - [Blog](/docs/Blog.md)
    - [Post](/docs/Post.md)
+   - [MyPage](/docs/Mypage.md)
 
 ## 2. Component
    - [Note](/docs/Note.md)
