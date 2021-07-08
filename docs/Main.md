@@ -9,7 +9,6 @@
 | 4 | [로그인](/docs/GNB/Login.md) / 로그아웃 | GNB | 로그인 페이지로 이동하거나 로그아웃한다. | O |
 | 12 | [사이드메뉴](/docs/GNB/SideMenu.md) | GNB | 각 페이지의 ShortCut Button을 보여준다. | X |
 | 13 | [사이드메뉴 커스텀](/docs/GNB/CustomSideMenu.md) | GNB | 사용자의 사이드메뉴 커스텀을 할 수 있게 해준다. | X |
-| 3 | [마이페이지 이동](/docs/Mypage.md) | Link | 각 사용자의 마이페이지로 이동한다. | O |
 
 <br/>
 

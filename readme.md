@@ -8,6 +8,6 @@
    - [MyPage](/docs/Mypage.md)
 
 ## 2. Component
-   - [Note](/docs/Note.md)
-   - [Chatting](/docs/Chatting.md)
+   - [Note](/docs/GNB/Note/Main.md)
+   - [Chatting](/docs/GNB/Chat/Main.md)
    
