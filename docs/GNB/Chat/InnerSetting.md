@@ -1,6 +1,6 @@
 # 채팅방 내 설정 : 각 채팅방의 환경설정을 한다.
 
-![tempImage](/docs/image/Chat.png)
+![tempImage](/docs/image/Chat_detail.png)
 
 **[page address]** : -
 
@@ -14,13 +14,13 @@
 
 **[Function Flow]**
 
-&ndash; **[검색버튼을 누른 경우]**
+&ndash; **["검색"을 누른 경우]**
 
 1\) 채팅방 위쪽에 [검색](/docs/GNB/Chat/InnerSearch.md)창이 나타난다.
 
 <br/>
 
-&ndash; **[채팅방 나가기를 누른 경우]**
+&ndash; **["채팅방 나가기"를 누른 경우]**
 
 1\) "채팅방을 나가시겠습니까?" 메시지를 띄운다.
 

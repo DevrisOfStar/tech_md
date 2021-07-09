@@ -6,8 +6,9 @@
    - [Blog](/docs/Blog.md)
    - [Post](/docs/Post.md)
    - [MyPage](/docs/Mypage.md)
-
+   - [Service](/docs/Service.md)
+   
 ## 2. Component
    - [Note](/docs/GNB/Note/Main.md)
-   - [Chatting](/docs/GNB/Chat/Main.md)
+   - [Chat](/docs/GNB/Chat/Main.md)
    

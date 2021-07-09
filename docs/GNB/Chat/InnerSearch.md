@@ -1,6 +1,6 @@
 # 채팅방 내 검색 : 채팅방 내의 채팅을 검색한다.
 
-![tempImage](/docs/image/Chat.png)
+![tempImage](/docs/image/Chat_detail.png)
 
 **[page address]** : -
 

@@ -1,6 +1,6 @@
 # 팔로워/팔로잉 불러오기 : 사용자의 Follower/Following 리스트를 불러온다.
 
-![tempImage](/docs/image/Chat.png)
+![ChatFollow](/docs/image/Chat_follow.png)
 
 **[page address]** : -
 
