@@ -20,7 +20,7 @@
 
 &ndash; **[웹페이지에 사이드메뉴에 대한 정보가 없는 경우]**
 
-&nbsp;&nbsp;&nbsp;- [자유게시판](/docs/Post.md), [블로그](/docs/Blog.md), 라이선스, [노트](/docs/GNB/Note.md)를 보여준다.
+&nbsp;&nbsp;&nbsp;- [자유게시판](/docs/Post.md), [블로그](/docs/Blog.md), 라이선스, [노트](/docs/GNB/Note/Main.md)를 보여준다.
 <br/>
 
 <br/>
