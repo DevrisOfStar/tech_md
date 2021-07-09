@@ -1,6 +1,6 @@
 # 채팅방 목록 보기 및 검색 : 사용자의 채팅방 목록을 보여준다. / 채팅방을 검색한다.
 
-![ChatList](/docs/image/Chat_list.png)
+![ChatList](/docs/image/Chat_List.png)
 
 **[page address]** : -
 

@@ -1,6 +1,6 @@
 # 팔로워/팔로잉 검색 : 사용자의 Follower/Following에서 검색한다.
 
-![ChatFollow](/docs/image/Chat_follow.png)
+![ChatFollow](/docs/image/Chat_Follow.png)
 
 **[page address]** : -
 

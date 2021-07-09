@@ -1,6 +1,6 @@
 # 채팅방 만들기 : 채팅방을 생성한다.
 
-![CreateChat](/docs/image/Chat_create.png)
+![CreateChat](/docs/image/Chat_Create.png)
 
 **[page address]** : -
 

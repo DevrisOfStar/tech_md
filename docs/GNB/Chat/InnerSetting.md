@@ -1,6 +1,6 @@
 # 채팅방 내 설정 : 각 채팅방의 환경설정을 한다.
 
-![tempImage](/docs/image/Chat_detail.png)
+![tempImage](/docs/image/Chat_Detail.png)
 
 **[page address]** : -
 
